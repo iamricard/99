@@ -1,10 +1,10 @@
-﻿module ``NinetyNine Problems - Problem 6``
+﻿module ``NinetyNine Problems - Problem 06``
 
 open NUnit.Framework
 open FsUnit
 
 // for `rev`
-open ``NinetyNine Problems - Problem 5``
+open ``NinetyNine Problems - Problem 05``
 
 let is_palindrome xs =
   xs = (rev xs)

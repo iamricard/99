@@ -1,4 +1,4 @@
-﻿module ``NinetyNine Problems - Problem 8``
+﻿module ``NinetyNine Problems - Problem 08``
 
 open NUnit.Framework
 open FsUnit
